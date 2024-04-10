@@ -17,6 +17,9 @@
 | 08 | 2023-11-29 |**Unity Digital Human**|Unity Render PipeLine / What are SRP, URP, HDRP / Apply Maya's Material as Unity Shader / Mongtron End|
 | 09 | 2024-01-10 |**Speech To Text(LLM)**|Korean Speech Recognition / Speech to Text with [Whisper](https://github.com/openai/whisper) provided by OpenAI)|
 | 10 | 2024-01-17 |**Creating a Generative AI-based Virtual Interview Center**|[GENESIS](https://github.com/julienkay/genesis) / [Blockade Labs Skybox](https://skybox.blockadelabs.com/)|
+| 11 | 2024-03-07 |**ldm3d**|What is ldm3d / Paranoma image generated with ldm3d-pano  |
+| 12 | 2024-04-11 |**Digital Human & NVIDIA Audio2Face**| Digital Human Shader Improvement / Introduction to NVIDIA Audio2Face |
+
 
 <br/>
 
