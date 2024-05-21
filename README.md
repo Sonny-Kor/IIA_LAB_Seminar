@@ -1,4 +1,4 @@
-![image](https://github.com/Sonny-Kor/IIA_LAB_Seminar/assets/46300191/41cdcc8d-4241-4872-82ef-52b76c5a1133)# IIA_LAB_Record
+# IIA_LAB_Record
 
 ## ✨ Intelligent Image Analysis Lab [2022.08~2024]
 
@@ -21,6 +21,7 @@
 | 12 | 2024-04-11 |**Digital Human & NVIDIA Audio2Face(1)**| Digital Human Shader Improvement / Introduction to NVIDIA Audio2Face |
 | 13 | 2024-05-14 |**NVIDIA Audio2Face(2)** | NVIDIA Audio2Face Animation into Unity |
 
+* 10, 11, 12, 13회 발표 자료는 용량초과로 Slack에 첨부
 
 
 <br/>
