@@ -1,4 +1,4 @@
-# IIA_LAB_Record
+![image](https://github.com/Sonny-Kor/IIA_LAB_Seminar/assets/46300191/41cdcc8d-4241-4872-82ef-52b76c5a1133)# IIA_LAB_Record
 
 ## ✨ Intelligent Image Analysis Lab [2022.08~2024]
 
@@ -18,7 +18,9 @@
 | 09 | 2024-01-10 |**Speech To Text(LLM)**|Korean Speech Recognition / Speech to Text with [Whisper](https://github.com/openai/whisper) provided by OpenAI)|
 | 10 | 2024-01-17 |**Creating a Generative AI-based Virtual Interview Center**|[GENESIS](https://github.com/julienkay/genesis) / [Blockade Labs Skybox](https://skybox.blockadelabs.com/)|
 | 11 | 2024-03-07 |**ldm3d**|What is ldm3d / Paranoma image generated with ldm3d-pano  |
-| 12 | 2024-04-11 |**Digital Human & NVIDIA Audio2Face**| Digital Human Shader Improvement / Introduction to NVIDIA Audio2Face |
+| 12 | 2024-04-11 |**Digital Human & NVIDIA Audio2Face(1)**| Digital Human Shader Improvement / Introduction to NVIDIA Audio2Face |
+| 13 | 2024-05-14 |**NVIDIA Audio2Face(2)** | NVIDIA Audio2Face Animation into Unity |
+
 
 
 <br/>
